@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elder Tales - Stickman RPG</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="game-container">
+        <header>
+            <h1>Elder Tales</h1>
+            <div id="stats-bar">
+                <span id="player-name">Player</span> | 
+                HP: <span id="hp-val">200</span>/<span id="hp-max">200</span> | 
+                Lvl: <span id="level-val">1</span> | 
+                Gold: <span id="gold-val">1000</span>
+            </div>
+        </header>
+
+        <main>
+            <div id="canvas-wrapper">
+                <canvas id="gameCanvas" width="800" height="400"></canvas>
+                
+                <div id="battle-ui" class="hidden">
+                    <div class="turn-indicator" id="turn-msg">Player's Turn</div>
+                    <div id="actions-menu">
+                        <button onclick="game.playerAttack()">Attack</button>
+                        <button onclick="game.playerHeal()">Potion (<span id="potion-count">1</span>)</button>
+                        <button onclick="game.playerFlee()">Flee</button>
+                    </div>
+                </div>
+
+                <div id="exploration-ui">
+                    <button onclick="game.explore()">Explore</button>
+                    <button onclick="game.rest()">Rest</button>
+                    <button onclick="game.toggleShop()">Shop</button>
+                </div>
+            </div>
+
+            <div id="log-container">
+                <div id="game-log">
+                    <p>Welcome to Elder Tales. Prepare for adventure...</p>
+                </div>
+            </div>
+        </main>
+
+        <!-- Shop Modal -->
+        <div id="shop-modal" class="hidden">
+            <div class="modal-content">
+                <h2>Merchant</h2>
+                <div id="shop-items">
+                    <!-- Populated by JS -->
+                </div>
+                <button class="close-btn" onclick="game.toggleShop()">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>

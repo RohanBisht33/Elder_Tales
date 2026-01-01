@@ -1,0 +1,1 @@
+rb mal lam 0.1 390 400 1 990 1000 500 750 Wooden Sword Wooden Chest
