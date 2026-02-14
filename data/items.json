@@ -1,0 +1,126 @@
+{
+    "weapons": [
+        {
+            "name": "Wooden Sword",
+            "damage": 5,
+            "cost": 10,
+            "recipe": {
+                "wood": 10,
+                "stone": 0,
+                "iron": 0
+            }
+        },
+        {
+            "name": "Iron Sword",
+            "damage": 15,
+            "cost": 100,
+            "recipe": {
+                "wood": 5,
+                "stone": 0,
+                "iron": 10
+            }
+        },
+        {
+            "name": "Steel Sword",
+            "damage": 30,
+            "cost": 1000,
+            "recipe": {
+                "wood": 10,
+                "stone": 5,
+                "iron": 20
+            }
+        },
+        {
+            "name": "Mythril Sword",
+            "damage": 50,
+            "cost": 2000,
+            "recipe": {
+                "wood": 20,
+                "stone": 10,
+                "iron": 50
+            }
+        },
+        {
+            "name": "Adamantite Sword",
+            "damage": 75,
+            "cost": 5000,
+            "recipe": {
+                "wood": 50,
+                "stone": 20,
+                "iron": 100
+            }
+        },
+        {
+            "name": "Diamond Sword",
+            "damage": 100,
+            "cost": 10000,
+            "recipe": {
+                "wood": 100,
+                "stone": 50,
+                "iron": 200
+            }
+        }
+    ],
+    "armors": [
+        {
+            "name": "Wooden Chest",
+            "defense": 5,
+            "cost": 10,
+            "recipe": {
+                "wood": 20,
+                "stone": 0,
+                "iron": 0
+            }
+        },
+        {
+            "name": "Iron Chest",
+            "defense": 15,
+            "cost": 100,
+            "recipe": {
+                "wood": 5,
+                "stone": 5,
+                "iron": 20
+            }
+        },
+        {
+            "name": "Steel Chest",
+            "defense": 30,
+            "cost": 1000,
+            "recipe": {
+                "wood": 10,
+                "stone": 10,
+                "iron": 40
+            }
+        },
+        {
+            "name": "Mythril Chest",
+            "defense": 50,
+            "cost": 2000,
+            "recipe": {
+                "wood": 30,
+                "stone": 20,
+                "iron": 80
+            }
+        },
+        {
+            "name": "Adamantite Chest",
+            "defense": 75,
+            "cost": 5000,
+            "recipe": {
+                "wood": 60,
+                "stone": 40,
+                "iron": 150
+            }
+        },
+        {
+            "name": "Diamond Chest",
+            "defense": 100,
+            "cost": 10000,
+            "recipe": {
+                "wood": 150,
+                "stone": 100,
+                "iron": 300
+            }
+        }
+    ]
+}

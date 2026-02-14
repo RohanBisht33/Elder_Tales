@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_databases.dir/tests/test_databases.cpp.o CMakeFiles/test_databases.dir/src/Data/ItemDatabase.cpp.o CMakeFiles/test_databases.dir/src/Data/EnemyDatabase.cpp.o CMakeFiles/test_databases.dir/src/Core/Logger.cpp.o -o test_databases 

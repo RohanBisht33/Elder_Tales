@@ -1,3 +1,4 @@
+NewUser pass123
 im_rb im_rb
 lam mala
 lama mala

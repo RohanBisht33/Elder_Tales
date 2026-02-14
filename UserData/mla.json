@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "inventory": {
+        "equipped_armor": "Wooden Chest",
+        "equipped_weapon": "Wooden Sword",
+        "gold": 1000,
+        "items": [],
+        "potions": 1
+    },
+    "name": "mla",
+    "stats": {
+        "base_damage": 10,
+        "health": 200,
+        "level": 1.0,
+        "max_health": 200
+    }
+}

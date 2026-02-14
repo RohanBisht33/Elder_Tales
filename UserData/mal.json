@@ -1,0 +1,22 @@
+{
+    "id": 1,
+    "inventory": {
+        "equipped_armor": "Wooden Chest",
+        "equipped_weapon": "Adamantite Sword",
+        "gold": 12700,
+        "iron": 900,
+        "items": [
+            "Adamantite Sword"
+        ],
+        "potions": 1,
+        "stone": 980,
+        "wood": 950
+    },
+    "name": "mal",
+    "stats": {
+        "base_damage": 10,
+        "health": 126,
+        "level": 1.0,
+        "max_health": 200
+    }
+}

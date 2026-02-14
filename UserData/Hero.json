@@ -1,0 +1,20 @@
+{
+    "id": 1,
+    "inventory": {
+        "equipped_armor": "Wooden Chest",
+        "equipped_weapon": "Wooden Sword",
+        "gold": 1000,
+        "iron": 1,
+        "items": [],
+        "potions": 0,
+        "stone": 0,
+        "wood": 0
+    },
+    "name": "Hero",
+    "stats": {
+        "base_damage": 10,
+        "health": 200,
+        "level": 1.0,
+        "max_health": 200
+    }
+}

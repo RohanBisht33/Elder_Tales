@@ -1,0 +1,74 @@
+{
+    "enemies": [
+        {
+            "name": "Goblin",
+            "base_hp": 80,
+            "base_damage": 8,
+            "level_mult": 1.0,
+            "xp_reward": 10
+        },
+        {
+            "name": "Orc",
+            "base_hp": 100,
+            "base_damage": 12,
+            "level_mult": 1.2,
+            "xp_reward": 15
+        },
+        {
+            "name": "Slime",
+            "base_hp": 50,
+            "base_damage": 4,
+            "level_mult": 0.8,
+            "xp_reward": 5
+        },
+        {
+            "name": "Dragon",
+            "base_hp": 500,
+            "base_damage": 50,
+            "level_mult": 2.5,
+            "xp_reward": 100
+        },
+        {
+            "name": "Demon King",
+            "base_hp": 1000,
+            "base_damage": 100,
+            "level_mult": 5.0,
+            "xp_reward": 500
+        },
+        {
+            "name": "Wolf",
+            "base_hp": 60,
+            "base_damage": 8,
+            "level_mult": 1.1,
+            "xp_reward": 12
+        },
+        {
+            "name": "Bear",
+            "base_hp": 150,
+            "base_damage": 15,
+            "level_mult": 1.5,
+            "xp_reward": 25
+        },
+        {
+            "name": "Bandit",
+            "base_hp": 70,
+            "base_damage": 10,
+            "level_mult": 1.0,
+            "xp_reward": 15
+        },
+        {
+            "name": "Skeleton",
+            "base_hp": 40,
+            "base_damage": 12,
+            "level_mult": 1.2,
+            "xp_reward": 10
+        },
+        {
+            "name": "Troll",
+            "base_hp": 300,
+            "base_damage": 20,
+            "level_mult": 2.0,
+            "xp_reward": 50
+        }
+    ]
+}

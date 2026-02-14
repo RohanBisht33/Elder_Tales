@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_persistence.dir/tests/test_persistence.cpp.o CMakeFiles/test_persistence.dir/src/Core/SaveManager.cpp.o CMakeFiles/test_persistence.dir/src/Core/Logger.cpp.o -o test_persistence 

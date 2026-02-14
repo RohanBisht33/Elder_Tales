@@ -1,0 +1,8 @@
+/home/ai/Documents/Elder_Tales/build/CMakeFiles/Elder_Tales.dir
+/home/ai/Documents/Elder_Tales/build/CMakeFiles/test_determinism.dir
+/home/ai/Documents/Elder_Tales/build/CMakeFiles/test_databases.dir
+/home/ai/Documents/Elder_Tales/build/CMakeFiles/test_combat.dir
+/home/ai/Documents/Elder_Tales/build/CMakeFiles/test_gvm.dir
+/home/ai/Documents/Elder_Tales/build/CMakeFiles/test_persistence.dir
+/home/ai/Documents/Elder_Tales/build/CMakeFiles/edit_cache.dir
+/home/ai/Documents/Elder_Tales/build/CMakeFiles/rebuild_cache.dir
